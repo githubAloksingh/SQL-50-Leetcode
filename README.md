@@ -22,3 +22,20 @@ Welcome to the **SQL 50** repository! This collection contains 50 carefully cura
 │   ├── query_02.sql
 │   └── ...
 ├── README.md
+Each `.sql` file contains a specific query with comments explaining the logic and purpose of the query.
+
+## 🛠 REQUIREMENTS
+
+To run these SQL queries, you'll need a relational database management system (RDBMS) such as:
+
+- MySQL
+- PostgreSQL
+- SQLite
+- SQL Server
+
+## ⚡ GETTING STARTED
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/sql-50.git
