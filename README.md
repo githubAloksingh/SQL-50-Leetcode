@@ -22,6 +22,8 @@ Welcome to the **SQL 50** repository! This collection contains 50 carefully cura
 │   ├── query_02.sql
 │   └── ...
 ├── README.md
+
+
 Each `.sql` file contains a specific query with comments explaining the logic and purpose of the query.
 
 ## 🛠 REQUIREMENTS
