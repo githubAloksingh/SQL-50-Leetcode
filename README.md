@@ -41,3 +41,38 @@ To run these SQL queries, you'll need a relational database management system (R
 
    ```bash
    git clone https://github.com/your-username/sql-50.git
+
+Import the sample database provided or use your own database.
+
+Open any of the .sql files and execute them in your database environment.
+
+Modify the queries to fit your own data and experiment with variations.
+
+📑 QUERY TOPICS
+Basic SELECT Queries
+
+Introduction to SELECT, FROM, and filtering with WHERE.
+JOIN Operations
+
+Inner Joins, Left/Right Joins, and Self Joins.
+Aggregating Data
+
+Using GROUP BY, HAVING, and aggregate functions (SUM, COUNT, etc.).
+Subqueries
+
+Nested queries and filtering results using subqueries.
+Advanced Queries
+
+Working with CASE statements, window functions, and transactions.
+📚 LEARNING GOALS
+By practicing these queries, you will:
+
+Understand the foundations of SQL and relational databases.
+Gain confidence in writing complex queries to extract meaningful data.
+Learn to optimize queries for performance.
+Understand how to manage transactions and ensure data integrity.
+🤝 CONTRIBUTIONS
+Feel free to contribute additional SQL queries or suggest improvements! You can fork the repository, make changes, and submit a pull request.
+
+💬 FEEDBACK
+Have suggestions or feedback? Feel free to open an issue or reach out!
